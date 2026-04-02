@@ -3,7 +3,7 @@
 
 
 ## Objective
-[Brief Objective]
+
 The objective of this lab is to demonstrate my ability to use network segmentation and firewall controls to contain security incidents. I walk through the full process—from starting in a flat network, to introducing segmentation, to enforcing least‑privilege access, and finally isolating an infected system. By completing this lab, I show how segmentation, controlled communication, and quarantine techniques play a critical role in preventing lateral movement during attacks such as ransomware.
 
 ### Skills Learned
